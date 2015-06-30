@@ -1,2 +1,2 @@
 # Udemy-JS-Basic
-Basic JavaScript Understanding
+Basic JavaScript Understanding By Udemy Free Classes
